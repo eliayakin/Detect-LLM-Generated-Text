@@ -6,7 +6,7 @@ The project was developed under NLP IL mentorship program and under the kaggle c
 We include a pdf of our slides of the talk we presented in "[LLM Safeguards - Keeping LLMs in Line](https://www.meetup.com/the-israeli-natural-language-processing-meetup/events/299728251/)" - NLP IL's meetup @ Amazon AWS to give general understanding of our gouls in this project.   
 
 # Team
-The Kaggle team consisted of:
+The project team consisted of:
   - Elia Yakn, ([LinkedIn](https://www.linkedin.com/in/elia-yakin/))
   - Yasmin Zakaim, ([LinkedIn](https://www.linkedin.com/in/yaszkm/))
 
